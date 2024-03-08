@@ -8,8 +8,6 @@
 
 <p align="center"><b>Projeto avaliativo de Programação Web I | Cardápio Web</b></p>
 
-![Video Demonstrativo](video/videodemonstrativo.gif)
-
 ## Descrição:
 
  Criado com o objetivo de simular um Cardápio Web, onde podemos fazer pedidos pela internet, nota-se que essa forma de compra teve destaque no período de pandemia e tornou-se uma das formas mais utilizadas de venda de produtos atualmente.
@@ -24,7 +22,7 @@ Para que o projeto fosse feito da melhor forma o Professor [Leonardo Santiago Si
 
 ## Desenvolvedor 
 
-| <img loading="lazy" src="eu.jpeg" width=15% align="center"><br> <a href="https://github.com/ESChrystian">Chrystian Almeida Silva</a> |
+| <a href="https://github.com/ESChrystian">Chrystian Almeida Silva</a> |
 | --- |
     
     
